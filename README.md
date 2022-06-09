@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bluebonobo
-- 👀 I’m interested in data science, astrophysics, navigation systems, edtech and fintech 
+- 👀 I’m interested in data science, astrophysics, navigation systems, edtech, fintech and sailing
 - 🌱 I’m currently getting into Transiting Exoplanet Survey Satellite (TESS) data
 - 💞️ I’m currently looking to collaborate on astrophysics, navigation systems, edtech projects
 - 📫 Reach me here on Github
